@@ -3,7 +3,3 @@
 
 <img width="1411" height="912" alt="fig-10" src="https://github.com/user-attachments/assets/c27d4982-b271-417e-a52b-d14bf7b9b18b" />
 
-
-
-
-[Article.pdf](https://github.com/user-attachments/files/24691279/Article.pdf)
